@@ -1,4 +1,4 @@
-package com.omer.siniflar;
+package com.ss.omer.siniflar;
 
 public class Islem {
 

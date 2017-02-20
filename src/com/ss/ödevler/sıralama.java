@@ -1,4 +1,4 @@
-package ödevler;
+package com.ss.ödevler;
 
 public class sýralama {
 

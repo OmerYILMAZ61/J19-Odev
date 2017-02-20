@@ -1,4 +1,4 @@
-package KelimeSayısıHesaplama;
+package com.ss.KelimeSayısıHesaplama;
 
 public class Kelimeler {
 

@@ -1,4 +1,4 @@
-package KelimeUzunluðunaGöreDiziSýralama;
+package com.ss.KelimeUzunluðunaGöreDiziSýralama;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ödevler;
+package com.ss.ödevler;
 
 import java.util.Scanner;
 
